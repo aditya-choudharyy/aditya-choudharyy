@@ -1,8 +1,10 @@
-<div align="center">
-  <img src="./cat-sleeping-GIF-ascii.gif"
-       width="700"
-       alt="ASCII Cat Animation">
-</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aditya-choudharyy/aditya-choudharyy/main/cat-sleeping-GIF-ascii.gif" width="700" alt="ASCII Cat Animation">
+</p>
+
+<br>
+
 
 <br>
 
