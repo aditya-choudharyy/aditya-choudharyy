@@ -1,100 +1,48 @@
-![My ASCII Cat Animation](./cat-sleeping-GIF-ascii.gif)
+My ASCII Cat Animation
 
-<div align="center">
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&duration=4000&pause=2000&color=F0F0EB&background=00000000&center=true&vCenter=true&width=600&height=70&lines=Aditya+Choudhary" alt="Aditya Choudhary" /> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3000&pause=1500&color=8B948E&background=00000000&center=true&vCenter=true&width=600&height=30&letterSpacing=3px&lines=DEVELOPER;BUILDER;CURIOUS+MIND" alt="role" /> <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090B0A,100:252B27&height=180&section=header&text=Aditya%20Choudhary&fontSize=42&fontColor=F0F0EB&fontAlignY=38&desc=DEVELOPER%20%7C%20BUILDER%20%7C%20CURIOUS%20MIND&descAlignY=60&descSize=14" width="100%" />
+Building things for the web. Exploring ideas. Making them real.
 
-### Building things for the web. Exploring ideas. Making them real.
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-EXPLORE-252B27?style=for-the-badge&logo=vercel&logoColor=F0F0EB&labelColor=090B0A)](https://dapper-sprite-1431a6.netlify.app/#/)
-[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-252B27?style=for-the-badge&logo=github&logoColor=F0F0EB&labelColor=090B0A)](https://github.com/aditya-choudharyy)
+Portfolio GitHub
 
-</div>
-
----
-
-## `01` — About me
+</div> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:21262D,100:0D1117&height=1&section=header" width="100%" />
+About
 
 I'm Aditya, a developer who enjoys building digital experiences and experimenting with ideas.
 
-I work across frontend and full-stack web development, with an interest in creating useful products and interfaces that feel good to use.
+I work across frontend and full-stack web development, with an interest in creating useful products and interfaces that feel good to use. I learn by building, and there's always something new on the list.
 
-- 🌐 Building for the web
-- 🧠 Interested in creative problem-solving and digital products
-- 🔨 Learning by building and experimenting
-- 🚀 Always have something new to explore
-
----
-
-## `02` — Technologies & tools
-
+<br/>
+Stack
 <div align="center">
 
-**// FRONTEND**
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" />
+</div> <br/>
+Selected Projects
+<table> <tr> <td width="50%" valign="top">
+Muse
 
-**// BACKEND & TOOLS**
+A browser-based idea-saving app. A space to capture ideas as they come to you, without leaving your browser.
 
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,vercel,git,github&theme=dark" />
+HTML CSS JavaScript
 
-</div>
+</td> <td width="50%" valign="top">
+The Archive
 
----
+My personal portfolio and digital space: work, writing, experiments, sketches and things I'm currently exploring.
 
-## `03` — Selected projects
+HTML CSS JavaScript
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Visit website →
 
-### 🧠 Muse
+</td> </tr> </table> <br/>
+GitHub Activity
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aditya-choudharyy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F0F0EB&icon_color=8B948E&text_color=8B948E&ring_color=F0F0EB&text_bold=false" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-choudharyy&layout=compact&hide_border=true&bg_color=0D1117&title_color=F0F0EB&text_color=8B948E" /> </div> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:21262D,100:0D1117&height=1&section=header" width="100%" /> <div align="center">
 
-A browser-based idea-saving application.
+<sub>Made with curiosity, coffee, and a lot of browser tabs.</sub>
 
-A space to capture ideas as they come to you, without having to leave your browser.
-
-**Built with:** HTML · CSS · JavaScript
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 The Archive
-
-My personal portfolio and digital space.
-
-A collection of my work, writing, experiments, sketches and things I'm currently exploring.
-
-**Built with:** HTML · CSS · JavaScript
-
-[↗ Visit Website](https://dapper-sprite-1431a6.netlify.app/#/)
-
-</td>
-</tr>
-</table>
-
----
-
-## `04` — GitHub activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aditya-choudharyy&show_icons=true&theme=transparent&hide_border=true&title_color=A0AAA2&icon_color=80C995&text_color=C9D1D9&ring_color=80C995" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-choudharyy&layout=compact&theme=transparent&hide_border=true&title_color=A0AAA2&text_color=C9D1D9" />
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for stopping by.
-
-`[ END OF TRANSMISSION ]`
-
-*Made with curiosity, coffee, and a lot of browser tabs.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:252B27,100:090B0A&height=100&section=footer" width="100%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:21262D&height=90&section=footer" width="100%" /> </div>
