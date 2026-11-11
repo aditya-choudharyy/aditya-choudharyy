@@ -8,7 +8,7 @@ Building things for the web. Exploring ideas. Making them real.
 
 Portfolio GitHub
 
-</div> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:21262D,100:0D1117&height=1&section=header" width="100%" />
+</div> <br/>
 About
 
 I'm Aditya, a developer who enjoys building digital experiences and experimenting with ideas.
@@ -17,11 +17,7 @@ I work across frontend and full-stack web development, with an interest in creat
 
 <br/>
 Stack
-<div align="center">
-
-Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
-
-</div> <br/>
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" /> <br/> <img src="https://skillicons.dev/icons?i=nodejs,supabase,vercel,git,github&theme=dark" /> </div> <br/>
 Selected Projects
 <table> <tr> <td width="50%" valign="top">
 Muse
@@ -41,7 +37,8 @@ Visit website →
 
 </td> </tr> </table> <br/>
 GitHub Activity
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aditya-choudharyy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F0F0EB&icon_color=8B948E&text_color=8B948E&ring_color=F0F0EB&text_bold=false" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-choudharyy&layout=compact&hide_border=true&bg_color=0D1117&title_color=F0F0EB&text_color=8B948E" /> </div> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:21262D,100:0D1117&height=1&section=header" width="100%" /> <div align="center">
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aditya-choudharyy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F0F0EB&icon_color=8B948E&text_color=8B948E&ring_color=F0F0EB&text_bold=false" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-choudharyy&layout=compact&hide_border=true&bg_color=0D1117&title_color=F0F0EB&text_color=8B948E" /> </div> <br/>
+<div align="center">
 
 <sub>Made with curiosity, coffee, and a lot of browser tabs.</sub>
 
