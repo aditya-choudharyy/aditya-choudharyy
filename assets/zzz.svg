@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 90" width="800" height="90">
+<style>
+.z{fill:#8B948E;font-weight:700;opacity:0;animation:rise 4s ease-in-out infinite}
+.z1{font-size:14px;animation-delay:0s}
+.z2{font-size:20px;animation-delay:1.3s}
+.z3{font-size:28px;animation-delay:2.6s}
+@keyframes rise{0%{opacity:0;transform:translate(0,0)}20%{opacity:.9}100%{opacity:0;transform:translate(34px,-56px)}}
+</style>
+<g font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace">
+<text class="z z1" x="395" y="80">z</text>
+<text class="z z2" x="395" y="80">z</text>
+<text class="z z3" x="395" y="80">Z</text>
+</g></svg>

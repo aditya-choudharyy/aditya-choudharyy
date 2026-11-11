@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 40" width="800" height="40">
+<defs>
+<linearGradient id="f" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".15" stop-color="#fff"/><stop offset=".85" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<mask id="m"><rect width="800" height="40" fill="url(#f)"/></mask>
+</defs>
+<style>.t{animation:s 35s linear infinite}@keyframes s{from{transform:translateX(0)}to{transform:translateX(-1500px)}}</style>
+<g mask="url(#m)"><g class="t" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="14" font-weight="600" fill="#8B948E" letter-spacing="2">
+<text x="0" y="25" textLength="1500" lengthAdjust="spacing" xml:space="preserve">HTML  ·  CSS  ·  JAVASCRIPT  ·  REACT  ·  NEXT.JS  ·  NODE.JS  ·  SUPABASE  ·  VERCEL  ·  GIT  ·  GITHUB  ·  </text>
+<text x="1500" y="25" textLength="1500" lengthAdjust="spacing" xml:space="preserve">HTML  ·  CSS  ·  JAVASCRIPT  ·  REACT  ·  NEXT.JS  ·  NODE.JS  ·  SUPABASE  ·  VERCEL  ·  GIT  ·  GITHUB  ·  </text>
+</g></g></svg>
