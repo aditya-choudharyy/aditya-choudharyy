@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="./cat-sleeping-GIF-ascii.gif"
+       width="700"
+       alt="ASCII Cat Animation">
+</div>
+
+<br>
 
 <div align="center">
 
