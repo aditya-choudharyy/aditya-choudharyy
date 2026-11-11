@@ -23,14 +23,39 @@ I work across frontend and full-stack web development, with an interest in creat
 Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" /> <br/> <img src="https://skillicons.dev/icons?i=nodejs,supabase,vercel,git,github&theme=dark" /> <img src="./assets/marquee.svg" width="100%" alt="" /> </div> <img src="./assets/divider.svg" width="100%" alt="" />
 Selected Projects
-<table> <tr> <td width="50%" valign="top">
-Muse
+<table>
+  <tr>
+    <td width="100%" valign="top">
 
-A browser-based idea-saving app. A space to capture ideas as they come to you, without leaving your browser.
+      <h3>🧠 Muse</h3>
 
-HTML CSS JavaScript
+      <a href="https://aditya-choudharyy.github.io/muse/">
+        <img src="https://raw.githubusercontent.com/aditya-choudharyy/muse/main/muse-preview.png"
+             width="100%"
+             alt="Muse application preview" />
+      </a>
 
-</td> <td width="50%" valign="top">
+      <p>
+        An infinite canvas for thoughts that don't fit into folders.
+        Capture ideas, organize thoughts, sketch, connect and create
+        in a visual workspace.
+      </p>
+
+      <sub>HTML · CSS · JavaScript · IndexedDB</sub>
+
+      <br/><br/>
+
+      <a href="https://aditya-choudharyy.github.io/muse/">
+        Live Demo →
+      </a>
+      &nbsp; · &nbsp;
+      <a href="https://github.com/aditya-choudharyy/muse">
+        Source Code →
+      </a>
+
+    </td>
+  </tr>
+</table>
 The Archive
 
 My personal portfolio and digital space: work, writing, experiments, sketches and things I'm currently exploring.
