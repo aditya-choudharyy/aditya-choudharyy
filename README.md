@@ -1,4 +1,8 @@
-My ASCII Cat Animation
+![My ASCII Cat Animation](./cat-sleeping-GIF-ascii.gif)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090B0A,100:252B27&height=180&section=header&text=Aditya%20Choudhary&fontSize=42&fontColor=F0F0EB&fontAlignY=38&desc=DEVELOPER%20%7C%20BUILDER%20%7C%20CURIOUS%20MIND&descAlignY=60&descSize=14" width="100%" />
 
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&duration=4000&pause=2000&color=F0F0EB&background=00000000&center=true&vCenter=true&width=600&height=70&lines=Aditya+Choudhary" alt="Aditya Choudhary" /> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3000&pause=1500&color=8B948E&background=00000000&center=true&vCenter=true&width=600&height=30&letterSpacing=3px&lines=DEVELOPER;BUILDER;CURIOUS+MIND" alt="role" /> <br/>
 
